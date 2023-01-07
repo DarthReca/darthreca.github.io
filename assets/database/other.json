@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Calendar app in Qt",
+        "link": "https://github.com/DarthReca/calendar-to-do-list",
+        "date": "2021/09/01"
+    },
+    {
+        "name": "Advent of code 2021 (Haskell, GoLang)",
+        "link": "https://github.com/DarthReca/advent-of-code-2021",
+        "date": "2022/02/01"
+    },
+    {
+        "date": "2022/09/21",
+        "link": "https://github.com/DarthReca/leitner-questioner",
+        "name": "JS App for Leitner method"
+    }
+]

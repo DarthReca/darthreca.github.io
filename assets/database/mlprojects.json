@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Classical ML",
+        "link": "https://github.com/DarthReca/ml-project",
+        "date": "2021/06/23"
+    },
+    {
+        "name": "Domain Adaptation",
+        "link": "https://github.com/DarthReca/AML-Project",
+        "date": "2022/02/27"
+    },
+    {
+        "name": "Knowledge Based Agent to play Hanabi",
+        "link": "https://github.com/DarthReca/Hanabi-Agent",
+        "date": "2022/05/29"
+    },
+    {
+        "date": "2022/02/21",
+        "link": "https://github.com/DarthReca/Computational-Intelligence",
+        "name": "Algorithms to solve sudoku and connect four"
+    }
+]
