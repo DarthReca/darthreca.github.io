@@ -1,7 +1,12 @@
 [
     {
-        "name": "Vision Transformers for Burned Area Delineation. Rege Cambrin D.; Colomba L.; Garza P.",
-        "link": "https://iris.polito.it/handle/11583/2971022",
+        "name": "Vision Transformers for Burned Area Delineation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&sortby=pubdate&citation_for_view=7m0N4zUAAAAJ:u-x6o8ySG0sC",
         "date": "2022/09/19"
+    },
+    {
+        "name": "Designing Logic Tensor Networks for Visual Sudoku puzzle classification",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&sortby=pubdate&citation_for_view=7m0N4zUAAAAJ:d1gkVwhDpl0C",
+        "date": "2023/05/12"
     }
 ]

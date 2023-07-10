@@ -58,6 +58,9 @@ function mergeSimilia(languageDict)
 async function getPercentages(top = 4) 
 {
     let languagesDict = mergeSimilia(mergeRecords(await getAllLanguages()))
+    // Remove HTML and CSS
+    delete languagesDict["HTML"]
+    delete languagesDict["CSS"]
     let sum = Object.values(languagesDict).reduce((total, current) => total + current, 0)
     return Object.entries(languagesDict).map((v, _) => [v[0], v[1] / sum]).sort((a, b) => b[1] - a[1]).slice(0, top)
 }
