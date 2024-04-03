@@ -1,32 +1,42 @@
 [
     {
         "name": "Vision Transformers for Burned Area Delineation",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:u-x6o8ySG0sC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:u-x6o8ySG0sC",
         "date": "2022/09/19"
     },
     {
         "name": "Designing Logic Tensor Networks for Visual Sudoku puzzle classification",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:d1gkVwhDpl0C",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:d1gkVwhDpl0C",
         "date": "2023/05/12"
     },
     {
         "name": "CaBuAr: California Burned Areas dataset for delineation",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:qjMakFHDy7sC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:qjMakFHDy7sC",
         "date": "2023/07/25"
     },
     {
         "name": "DANTE at GeoLingIt: Dialect-Aware Multi-Granularity Pre-training for Locating Tweets within Italy",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:2osOgNQ5qMEC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:2osOgNQ5qMEC",
         "date": "2023/09/07"
     },
     {
         "name": "A Model-based Curriculum Learning Strategy for Training SegFormer",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:UeHWp8X0CEIC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:UeHWp8X0CEIC",
         "date": "2023/09/28"
     },
     {
         "name": "DQNC2S: DQN-based Cross-stream Crisis event Summarizer",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:Tyk-4Ss8FVUC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:Tyk-4Ss8FVUC",
         "date": "2024/03/24"
+    },
+    {
+        "name": "QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:WF5omc3nYNoC",
+        "date": "2024/3/26"
+    },
+    {
+        "name": "Paraphrase Loss for Abstractive Summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&user=7m0N4zUAAAAJ&citation_for_view=7m0N4zUAAAAJ:eQOLeE2rZwMC",
+        "date": "2024/3/19"
     }
 ]
